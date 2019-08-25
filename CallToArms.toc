@@ -1,0 +1,8 @@
+﻿## Interface: 30000
+## Title: CallToArms
+## DefaultState: Enabled
+## Notes: LFG AddOn
+## LoadOnDemand: 0
+## SavedVariables: CTA_SavedVariables
+CallToArms.xml
+Bindings.xml
